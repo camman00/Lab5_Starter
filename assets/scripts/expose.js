@@ -42,9 +42,9 @@ function initialize() {
       confetti.addConfetti({
         confettiNumber: 101,
         confettiRadius: 7,
-        confettiColors: ['#fcf403', '#62fc03', '#f4fc03', '#03e7fc', '#03fca5', '#a503fc', '#fc03ad', '#fc03c2'],
+        confettiColors: ['#fcf503', '#63fc03', '#f4fc02'],
         emojiSize: 90,
-        emojis: ['🎉', '🥳', '🎊', '🎈']
+        emojis: [ '🎊', '🎈']
       });
     }
   });

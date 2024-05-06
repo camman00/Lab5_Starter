@@ -44,7 +44,7 @@ function initialize() {
         confettiRadius: 7,
         confettiColors: ['#fcf503', '#63fc03', '#f4fc02'],
         emojiSize: 90,
-        emojis: [ '🎊', '🎈']
+        emojis: [ '🎊', '🎈', '🎈']
       });
     }
   });
